@@ -1,0 +1,9 @@
+.shadow {
+text-shadow: 10px 10px 10px #000;
+}
+
+.whiteShadow {
+text-shadow: 10px 10px 10px #FFF;
+}
+
+.content { font-family: Arial, Helvetica, serif; font-size: 12px; color: #fff; }

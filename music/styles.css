@@ -1,0 +1,129 @@
+a.link:link { 
+	color: #000000;
+	}
+a.link:visited { 
+	color: #222222;
+	}
+a.link:hover { 
+	color: #FFFFFF;
+	background-color: #000000;
+	text-decoration: none;
+	}
+a.link:active { 
+	color: #333333;
+	}
+
+.tweetHeader {
+	color: #000000;
+	opacity: 0.8;
+	width: 95%;
+	height: 20px;
+	vertical-align: top;
+	font-family: 'Nova Square', sans-serif;
+	font-size: 15px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 5;
+	overflow-y: hidden;
+	background-color: #BBEEAA;
+	padding-left: .5em;
+
+}
+
+.blackBox  {
+	color: #000000;
+	opacity: 0.9;
+	width: 95%;
+	vertical-align: top;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 16px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 4;
+	overflow-y: hidden;
+	background-color: #b5c5f4;
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+.blackBox2  {
+	color: #000000;
+	opacity: 0.9;
+	width: 95%;
+	vertical-align: top;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 16px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 4;
+	overflow-y: hidden;
+	background-color: #afbeec;
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+.blackBox3  {
+	color: #000000;
+	opacity: 0.9;
+	width: 95%;
+	vertical-align: top;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 16px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 4;
+	overflow-y: hidden;
+	background-color: #a4b5e7;
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+.blackBox4  {
+	color: #000000;
+	opacity: 0.9;
+	width: 95%;
+	vertical-align: top;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 16px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 4;
+	overflow-y: hidden;
+	background-color: #a2b1df;
+	padding-left: .5em;
+	padding-right: .5em;
+}
+
+.blackBox5  {
+	color: #000000;
+	opacity: 0.9;
+	width: 95%;
+	vertical-align: top;
+	font-family: 'Share Tech', sans-serif;
+	font-size: 16px;
+	-webkit-border-radius: 0.5em;
+	-moz-border-radius: 0.5em;
+	border-radius: 0.5em;
+	list-style: none;
+	margin: 8px;
+	padding: 4;
+	overflow-y: hidden;
+	background-color: #94a4d2;
+	padding-left: .5em;
+	padding-right: .5em;
+}
